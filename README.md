@@ -1,7 +1,7 @@
-### Olá 👋
+### Hello There 👋
 
-Sou um entusiasta em tecnologia e amo programar.
+I'm a enthusiast in I.T. and I love programming.
 
 - 🔭 Python, Java, C++, SQL, PHP, HTML, CSS, ASP, Django, Git, Linux
-- 🌱 Aprendendo agora C e Javascript
-- 📫 Contate-me no <a href="https://www.t.me/Raddow">Telegram</a>
+- 🌱 Learning now C and Javascript
+- 📫 Contact me on <a href="https://www.t.me/Raddow">Telegram</a>
