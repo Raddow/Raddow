@@ -4,7 +4,7 @@
 
 I'm a enthusiast in I.T. and I love programming.
 
-- 📫 Contact me on <a href="https://www.t.me/Raddow">Telegram</a>
+📫 Contact me on <a href="https://www.t.me/Raddow">Telegram</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
